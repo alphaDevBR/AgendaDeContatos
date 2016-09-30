@@ -6,9 +6,9 @@
     <class>modelo.Contatos</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/db_fatec?zeroDateTimeBehavior=convertToNull"/>
-      <property name="javax.persistence.jdbc.user" value="fatec"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="fatec"/>
+      <property name="javax.persistence.jdbc.password" value="stractus"/>
     </properties>
   </persistence-unit>
 </persistence>
